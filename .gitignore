@@ -1,0 +1,17 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# java
+target/
+
+# Node
+node_modules/
+build/
+
+# IDE
+.vscode/
+
+# Logs
+*.log
